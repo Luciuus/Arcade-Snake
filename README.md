@@ -1,9 +1,5 @@
 # Arcade Snake: Cosmic Loop Edition
 
-[![C++ Version](https://shields.io)](https://cppreference.com)
-[![Platform](https://shields.io)](https://microsoft.com)
-[![License](https://shields.io)](LICENSE)
-
 A high-performance, CLI-based rendering of the classic Snake game implemented in modern C++. This project demonstrates low-level console buffer handling, state machine architecture, and reactive asynchronous input polling paired with a branching narrative system.
 
 ---
@@ -106,6 +102,3 @@ The user's final objective tests physical inputs against a countdown sequence. R
 
 ---
 
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
